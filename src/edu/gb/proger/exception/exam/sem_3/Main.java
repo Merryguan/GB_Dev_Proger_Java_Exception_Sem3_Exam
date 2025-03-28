@@ -1,4 +1,4 @@
-package edu.gb.proger.exception.exam_sem_3;
+package edu.gb.proger.exception.exam.sem_3;
 
 import java.io.BufferedWriter;
 import java.io.File;
